@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.content {
+}
+
+.mytable {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, tr, th {
+    border: 1px solid black;
+}
